@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Estudando Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w1nneer/Estudo-Rest-Api.git"
+  },
+  "keywords": [
+    "Estudar",
+    "e",
+    "Desenvolver"
+  ],
+  "author": "Eduardo \"w1neer\" Ximenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w1nneer/Estudo-Rest-Api/issues"
+  },
+  "homepage": "https://github.com/w1nneer/Estudo-Rest-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
